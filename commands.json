@@ -1,0 +1,4 @@
+{
+    "build": ["python3.7", "setup.py", "build_ext", "--inplace"],
+    "run": ["python3.7", "player.py"]
+}
